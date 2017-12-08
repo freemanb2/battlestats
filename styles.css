@@ -1,14 +1,14 @@
 body {
-	background-color: rgb(24,60,128);
+	background-color: #aec6cf;
 }
 
-#games {
+#wrapper {
 	margin-bottom: 500px;
 	display: block;
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	background: rgba(255,255,255, .5);
+	background: rgba(255,255,255, 1);
 	border-radius: 5px;
 }
 
